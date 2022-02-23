@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbc8c3542a0115555a9c946ec64b56167a92dfa5123323b3b9cd61e19c795a875",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xbc8c3542a0115555a9c946ec64b56167a92dfa5123323b3b9cd61e19c795a875",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SciNotLame",
+  "SYMBOL": "SNLNFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/snle",
+  "SHOW_BACKGROUND": true
+}
